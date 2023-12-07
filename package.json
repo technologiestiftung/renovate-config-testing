@@ -14,7 +14,7 @@
     "fastify": "1.14.6"
   },
   "devDependencies": {
-    "@technologiestiftung/semantic-release-config": "1.0.0",
+    "@technologiestiftung/semantic-release-config": "^1.0.0",
     "chalk": "1.1.3",
     "typescript": "5.1.6"
   }
