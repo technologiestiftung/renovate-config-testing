@@ -11,5 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "ascii-art": "0.0.2-alpha"
+  },
+  "devDependencies": {
+    "chalk": "1.1.3"
   }
 }
