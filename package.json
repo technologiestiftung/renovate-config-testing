@@ -13,6 +13,7 @@
     "ascii-art": "0.0.2-alpha"
   },
   "devDependencies": {
+    "@technologiestiftung/semantic-release-config": "1.0.0",
     "chalk": "1.1.3"
   }
 }
