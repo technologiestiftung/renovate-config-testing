@@ -10,9 +10,9 @@
   "author": "ff6347 <hash@ff6347.email>",
   "license": "MIT",
   "dependencies": {
-    "@supabase/supabase-js": "1.35.7",
-    "ascii-art": "0.0.2-alpha",
-    "fastify": "1.14.6"
+    "@supabase/supabase-js": "2.44.1",
+    "ascii-art": "2.8.5",
+    "fastify": "4.28.0"
   },
   "devDependencies": {
     "@technologiestiftung/semantic-release-config": "^1.0.0",
